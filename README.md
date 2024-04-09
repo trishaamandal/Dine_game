@@ -1,2 +1,2 @@
-# Dine_game
+# Dino_game
 ofline game ,chrome dino
